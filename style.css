@@ -1,0 +1,93 @@
+body {
+  background-color: #E5F3F4;
+  font-family: Source Sans Pro;
+  font-weight: bold;
+  margin: 0;
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  height: 60px;
+  border-top: 20px;
+  line-height: 40px;
+}
+
+footer a{
+  color: #3499DC;
+  font-weight: bold;
+  text-decoration-line: none;
+}
+
+nav {
+  background: #3498DB;
+}
+
+nav h1{
+  line-height: 90px;
+  font-family: Alegreya;
+  margin-top: 0;
+}
+
+nav h3{
+  font-weight: normal;
+}
+
+nav h1, h3{
+  color: white;
+  height: 50px;
+  text-indent: 40px;
+}
+
+.blue-page-section {
+  background-color: #2C3E50;
+  color: white;
+  padding: 30px;
+  margin: 0;
+  height: 357px;
+}
+
+.blue-page-section p{
+  max-width: 1200px;
+  display: inline-block;
+  text-align: justify;
+}
+
+.content-wrapper{
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
+.quote {
+  width: 40%;
+  padding: 5px;
+  background: #2ECC71;
+  border: 6px solid #27AE60;
+  margin: 2% 0% 0% 30%;
+  text-align: left;
+  text-indent: 20px;
+}
+
+.quoted-from {
+  text-indent: 530px;
+  font-style: italic;
+}
+
+.try-it-now {
+  color: white;
+  height: 100px;
+  width: 300px;
+  background: #E74C3C;
+  border: 6px solid #C0392C;
+  border-radius: 15px;
+  font-style: italic;
+  text-align: center;
+  line-height: 10px;
+  margin: 2% auto;
+}
+
+.try-it-now a{
+  color: white;
+  font-family: Alegreya;
+  line-height: 1em;
+}
